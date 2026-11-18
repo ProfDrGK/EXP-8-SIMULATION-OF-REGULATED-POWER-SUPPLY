@@ -33,6 +33,7 @@ Procedure
 ________________________________________
 Observation
 
+<img width="1530" height="790" alt="ED practical" src="https://github.com/user-attachments/assets/c80040ae-89b3-431c-9aee-dc835604a34f" />
 
 
 
