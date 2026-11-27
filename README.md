@@ -33,7 +33,7 @@ Procedure
 ________________________________________
 Observation
 
-
+<img width="1535" height="862" alt="LT spice EXP 8" src="https://github.com/user-attachments/assets/fbfdde13-afce-4df3-8bb5-2c9614ba847f" />
 
 
 1. AC Input Waveform
